@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Divakar!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer+%F0%9F%9A%80;Gen+AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;ELK+Stack+Explorer+%F0%9F%94%8D;N8N+Automation+User+%E2%9A%A1;Data+Analyst+%F0%9F%A4%52;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer+%F0%9F%9A%80;Gen+AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;ELK+Stack+Explorer+%F0%9F%94%8D;N8N+Automation+User+%E2%9A%A1;Data+Analyst+%F0%9F%93%8A;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
 <div align="center">
