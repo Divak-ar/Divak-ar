@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Divakar!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer+%F0%9F%9A%80;Gen+AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;ELK+Stack+Explorer+%F0%9F%94%8D;N8N+Automation+User+%E2%9A%A1;Data+Analyst+%F0%9F%93%8A;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer+%F0%9F%9A%80;Gen+AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;Avid+Learner+And+Explorer+%F0%9F%94%8D;N8N+Automation+User+%E2%9A%A1;Data+Analyst+%F0%9F%93%8A;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -147,6 +147,24 @@ const divakar = {
 
 ---
 
+<!--
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divak-ar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divak-ar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divak-ar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divak-ar&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+-->
+
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -155,7 +173,8 @@ const divakar = {
 
 ---
 
-## 🎯 Current Goals for 2025
+<!--
+## 🎯 Current Goals for 2026
 
 - 🚀 **Master Advanced AI Workflows** - Deep dive into LangGraph and multi-agent systems
 - 🔧 **Contribute to Open Source** - Actively contribute to AI/ML and automation projects
@@ -163,6 +182,7 @@ const divakar = {
 - 🌐 **Build SaaS Products** - Launch AI-powered automation tools
 - 🎤 **Tech Speaking** - Share knowledge through blogs and talks
 - 🤝 **Mentorship** - Help junior developers in their AI journey
+-->
 
 ---
 
