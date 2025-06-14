@@ -43,7 +43,7 @@ const divakar = {
 <tr><td>👯</td><td><strong>Collaborating on Instant Recommendation AI</strong> systems that learn and adapt</td></tr>
 <tr><td>🤝</td><td><strong>Seeking partnerships</strong> for scaling Gen AI solutions in production environments</td></tr>
 <tr><td>💬</td><td><strong>Ask me about</strong> Web Development, Gen AI, Automation, or any tech challenges!</td></tr>
-<tr><td>📫</td><td><strong>Reach me at:</strong> <a href="mailto:practiceset00001@gmail.com">practiceset00001@gmail.com</a></td></tr>
+<tr><td>📫</td><td><strong>Reach me at:</strong> <a href="mailto:divakarpriyadarshi241@gmail.com">divakarpriyadarshi241@gmail.com</a></td></tr>
 <tr><td>⚡</td><td><strong>Fun fact:</strong> I love exploring esoteric programming languages and their unique paradigms!</td></tr>
 </table>
 
@@ -185,6 +185,13 @@ const divakar = {
 -->
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divak-ar/Divak-ar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divak-ar/Divak-ar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Divak-ar/Divak-ar/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## 💡 Random Dev Quote
 
