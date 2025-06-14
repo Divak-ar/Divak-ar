@@ -171,7 +171,19 @@ const divakar = {
   <img src="https://github-profile-trophy.vercel.app/?username=divak-ar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
----
+<br/>
+
+## 🥇 Top Languages used
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=divak-ar&layout=compact&langs_count=7&theme=dracula&hide_border=false" 
+    height="200" 
+    width="500" 
+    alt="Top languages" 
+  />
+</div>
+
 
 <!--
 ## 🎯 Current Goals for 2026
@@ -185,13 +197,13 @@ const divakar = {
 -->
 
 ---
-
+<!-- Pac Man 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divak-ar/Divak-ar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divak-ar/Divak-ar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Divak-ar/Divak-ar/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 
 ## 💡 Random Dev Quote
 
