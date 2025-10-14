@@ -50,7 +50,6 @@ const divakar = {
 - 👯 Looking to collaborate **Instant Recommendation AI** systems
 - 💬 Ask me about **Backend Engineering, GenAI, Data Analytics, or System Design**
 - 📫 Reach me at: **divakarpriyadarshi241@gmail.com**
-- ⚡ Fun fact: **I log off from the real world for 6-7 hours daily - I call it my much needed shut eye! 😴💤**
 
 <br clear="both">
 
