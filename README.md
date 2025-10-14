@@ -44,7 +44,7 @@ const divakar = {
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" height="30" /> More About Me:
 
-- 🔭 Building **scalable backend systems** and **AI-powered automation workflows** with N8N
+- 🔭 Building **scalable backend systems** and **AI-powered automation workflows** 
 - 🌱 Deep diving into **LangChain** and **advanced RAG systems** for enterprise solutions
 - 📊 Crafting **data analytics pipelines** and **business intelligence systems**
 - 👯 Looking to collaborate **Instant Recommendation AI** systems
