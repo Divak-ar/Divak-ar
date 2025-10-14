@@ -29,9 +29,9 @@ const divakar = {
   name: "Divakar Priyadarshi",
   role: "Backend Engineer & Gen AI Enthusiast",
   location: "India 🇮🇳",
-  currentFocus: ["AI-powered automation", "RAG Systems", "Backend Architecture", "Data Analytics"],
-  currentlyLearning: ["N8N Advanced Workflows", "ELK Stack", "LangGraph", "Microservices"],
-  askMeAbout: "Web Dev, AI/ML, Automation, or literally anything tech!",
+  currentFocus: ["AI-powered solutions", "RAG Systems", "Backend Architecture"],
+  currentlyLearning: ["Java Springboot", "ELK Stack", "LangGraph", "Microservices"],
+  askMeAbout: "Web Development, AI/ML, Automation, or literally anything tech!",
   contactMe: "divakarpriyadarshi241@gmail.com",
   funFact: "Brainfuck is a programming language that uses only 8 characters (> < + - . , [ ]) yet you can program anything in it",
   philosophy: "Code is poetry in motion, AI is the future in action ✨"
@@ -99,7 +99,7 @@ const divakar = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="Tailwind CSS"/>
 </div>
 
-### ⚡ Backend Engineering & Technologies
+### ⚡ Backend Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" title="Express.js"/>
@@ -138,6 +138,7 @@ const divakar = {
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" title="Apache Spark"/>
 </div>
 
+<!--
 ### 🚀 Message Queues & Monitoring
 <div align="center">
   <img src="https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" title="BullMQ"/>
@@ -148,6 +149,7 @@ const divakar = {
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" title="Kibana"/>
   <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" title="Logstash"/>
 </div>
+-->
 
 <br clear="both">
 
